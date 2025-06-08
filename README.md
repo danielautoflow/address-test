@@ -1,2 +1,7 @@
 # address-test
-Address Test Application
+BEP
+0x3445Bf3586E33BBa107B92EE4018faF2296060d4
+SOL
+B5ZVV4MtTKkewBzKPBdydt7ry53gRoHxVsp8Z2T75sb5
+Tron
+TEjbh8keX1ua3dxQEcz9nigA2gjeh37PJS
